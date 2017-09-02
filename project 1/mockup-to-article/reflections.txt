@@ -1,0 +1,21 @@
+<!--You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+-->
+<html>
+<head></head>
+<body>
+<ol>
+<li>In this i learned about a lot of new tags of html and where to use them in the web page which i am making.So,they can help in the future.</li>
+<li>till now the things i learned are medium not so easy and no so difficult.</li>
+<li>Till now i don't faced any problems in any of thing.</li>
+<li>To solve any of problem i will search the things online or ask my friend or ask on the udacity forum.</li>
+</ol>
+</body>
+</html>

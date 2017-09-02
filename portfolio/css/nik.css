@@ -1,0 +1,40 @@
+body {
+font-family: "Lato", sans-serif;
+color: #747704;
+font-weight: 300;
+text-align: justify;
+}
+.text {
+text-align: center;
+}
+.text-thin {
+font-weight: 100;
+}
+.text-muted {
+color: #2e86c1;
+}
+.super-text {
+font-size: 60px;
+}
+.title-logo {
+height: 100px;
+width: 100px;
+margin-top: 20px;
+}
+.appify-img {
+height: 200px;
+width: 350px;
+}
+@media screen and (max-width:600px) {
+.super-text {
+  font-size: 20px;
+}
+.pro {
+  font-size: 10px;
+}
+.title-logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 5px;
+}
+}
